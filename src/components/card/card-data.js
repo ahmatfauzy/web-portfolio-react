@@ -33,7 +33,7 @@ export const projects = [
     title: "Weather App",
     techlogogies: ["React", "OpenWeatherMap-API", "CSS"],
     description: "A weather application showing current weather information using the OpenWeatherMap API.",
-    code: "https://github.com/ahmatfauzy/One-Piece",
-    demo: "https://one-piece-ahmatfauzy.vercel.app/",
+    code: "https://github.com/ahmatfauzy/weather-app-react",
+    demo: "https://weather-app-uhuy.vercel.app/",
   },
 ];
