@@ -7,7 +7,7 @@ import "./home-page.css";
 import { useEffect } from "react";
 import avatar from "../../assets/skills/avatar.png";
 import github from "../../assets/icons/github.png";
-// import gmail from "../../assets/icons/gmail.png";
+import linkedin from "../../assets/icons/linkedin.png";
 import instagram from "../../assets/icons/instagram.png";
 import telegram from "../../assets/icons/telegram.png";
 
@@ -30,10 +30,12 @@ const HomePage = () => {
               I'm <span>Ahmat Fauzi</span>
             </h1>
             <p>
-              I am Front End Developer. With over <br /> one year of
-              experience developing web <br /> applications using the latest
-              front-end <br />
-              technologies and features.
+              I am a Informatics Engineering student <br />
+              with a passion for front-end development.
+              <br />
+              My interests lie in building dynamic,
+              <br />
+              user-friendly web applications that solve real-world problems.
             </p>
           </div>
           <div
@@ -84,14 +86,14 @@ const HomePage = () => {
             >
               <img src={instagram} alt="instagram" />
             </a>
-            {/* <a
+            <a
               className="contact_item"
-              href="mailto:ahmatf703@gmail.com"
+              href="https://www.linkedin.com/in/ahmat-fauzi/"
               target="_blank"
               rel="noreferrer"
             >
-              <img src={gmail} alt="gmail" />
-            </a> */}
+              <img src={linkedin} alt="linkedin" />
+            </a>
           </div>
         </div>
       </div>

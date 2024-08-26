@@ -38,12 +38,12 @@ const AboutPage = () => {
             <h1>About Me</h1>
             <div className="about_me-description">
               <p>
-                My name is Fauzi. I am currently looking for a job as a junior
-                React.js developer. Know the latest frontend technologies. I
-                have about a year of experience in JavaScript library - React.js
-                and create dynamic web applications using it. Actively learning
-                TypeScript at now. I am a fast learner, sociable, hardworking,
-                capable.
+                My name is Fauzi. I am well-versed in the latest frontend
+                technologies and have a keen interest in React. With a solid
+                foundation in modern web development practices, I am
+                continuously expanding my skill set. At present, I am actively
+                engaged in learning TypeScript to enhance my capabilities in
+                building scalable and maintainable applications.
               </p>
             </div>
           </div>
