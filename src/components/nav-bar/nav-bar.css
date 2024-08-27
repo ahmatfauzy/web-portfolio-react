@@ -30,26 +30,38 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
-.nav__bar-logo span {
+.nav__bar-logo a {
   font-size: 25px;
   font-weight: 600;
   cursor: default;
+  text-decoration: none;
+  color: #fff;
 }
+/* 
+.nav__bar-items {
+  width: 0px;
+} */
 
 .nav__bar-items a {
   font-size: 20px;
   color: #fff;
   text-decoration: none;
-  margin: 0 40px;
+  margin: 0 30px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 15px;
   -webkit-tap-highlight-color: transparent;
 }
 
 .nav__bar-items a:hover {
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  background-color: white;
+  color: black;
 }
 
 .nav__bar-items .active {
-  text-decoration: underline;
+  /* text-decoration: underline; */
+  background-color: white;
+  color: black;
 }
 
 .hide_menu,

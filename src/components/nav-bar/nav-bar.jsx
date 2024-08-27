@@ -23,7 +23,7 @@ const NavBar = () => {
             data-aos="fade-right"
             data-aos-duration="1000"
           >
-            <span>FAUZI</span>
+            <span><NavLink to="/home">FAUZI</NavLink></span>
           </div>
           <div
             className="nav__bar-items"
@@ -62,7 +62,7 @@ const NavBar = () => {
       >
         <NavLink to="/home">Home</NavLink>
         <NavLink to="/about">About</NavLink>
-        <NavLink to="/projects">Projects</NavLink>
+        <NavLink to="/projects"> Project</NavLink>
         {/* <NavLink to="/resume">Resume</NavLink> */}
       </div>
     </>
