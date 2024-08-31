@@ -11,8 +11,6 @@ const HomePage = React.lazy(() => import("./pages/home-page/home-page"));
 const ProjectsPage = React.lazy(() =>
   import("./pages/projects-page/projects-page")
 );
-// const ResumePage = React.lazy(() => import("./pages/resume-page/resume-page"));
- 
 function App() {
   return (
     <>
