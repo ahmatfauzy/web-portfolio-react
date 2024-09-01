@@ -35,8 +35,8 @@ export const projects = [
   {
     id: 3,
     image: "/projects/One-Piece.png",
-    title: "Kru Mugiwara - One Piece",
-    techlogogies: ["React", "CSS"],
+    title: "The Mugiwara Crew - One Piece",
+    techlogogies: ["React", "Router", "CSS"],
     description:
       "A web application displaying profiles and information of the Mugiwara crew from the One Piece series.",
     code: "https://github.com/ahmatfauzy/One-Piece",
@@ -46,7 +46,7 @@ export const projects = [
     id: 1,
     image: "/projects/CRUD-Tempat-Wisata.png",
     title: "Wisata Simalungun",
-    techlogogies: ["PHP", "MySQL", "CSS"],
+    techlogogies: ["PHP", "MySQL","Bootstrap", "CSS"],
     description:
       "A web application for managing information about tourist spots in Simalungun with CRUD features.",
     code: "https://github.com/ahmatfauzy/CRUD-Wisata-Simalungun-SUMUT",
