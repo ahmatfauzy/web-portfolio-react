@@ -31,6 +31,16 @@ export const projects = [
     code: "https://github.com/ahmatfauzy/dessert-list",
     demo: "https://dessert-list.vercel.app/",
   },
+  {
+    id: 6,
+    image: "/projects/Hotel-Mahkota.png",
+    title: "Hotel Mahkota - Checkout",
+    techlogogies: ["PHP", "MySQL", "Bootstrap", "Aos JS"],
+    description:
+      "A CRUD web application for managing hotel bookings, allowing users to check availability, book rooms, and process checkouts.",
+    code: "https://github.com/ahmatfauzy/checkout-hotel-mahkota",
+    demo: <Error404 />,
+  },
 
   {
     id: 3,
@@ -46,7 +56,7 @@ export const projects = [
     id: 1,
     image: "/projects/CRUD-Tempat-Wisata.png",
     title: "Wisata Simalungun",
-    techlogogies: ["PHP", "MySQL","Bootstrap", "CSS"],
+    techlogogies: ["PHP", "MySQL", "Bootstrap", "CSS"],
     description:
       "A web application for managing information about tourist spots in Simalungun with CRUD features.",
     code: "https://github.com/ahmatfauzy/CRUD-Wisata-Simalungun-SUMUT",

@@ -9,6 +9,7 @@ import css from "../../assets/skills/css.png";
 import git from "../../assets/skills/git.png";
 import html from "../../assets/skills/html.png";
 import js from "../../assets/skills/js.png";
+import php from "../../assets/skills/php.png";
 import mui from "../../assets/skills/mui.png";
 import react from "../../assets/skills/react.png";
 import redux from "../../assets/skills/redux.png";
@@ -76,6 +77,10 @@ const AboutPage = () => {
             <div className="skill">
               <img src={js} alt="js" />
               <p>JavaScript</p>
+            </div>
+            <div className="skill">
+              <img src={php} alt="php" />
+              <p>PHP</p>
             </div>
             <div className="skill">
               <img src={react} alt="react" />
