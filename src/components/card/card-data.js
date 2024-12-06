@@ -62,4 +62,13 @@ export const projects = [
     code: "https://github.com/ahmatfauzy/CRUD-Wisata-Simalungun-SUMUT",
     demo: <Error404 />,
   },
+  {
+    id: 9,
+    image: "/projects/healthifyme.png",
+    title: "HealthifyMe",
+    techlogogies: ["React", "Taildwind", "Javascript", "AOS"],
+    description: "A Web application that focuses on health testing both physical and mental health",
+    code: "https://github.com/ahmatfauzy/Healthify-Me",
+    demo: "https://healthify-me.vercel.app/",
+  },
 ];
